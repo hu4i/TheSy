@@ -1,4 +1,6 @@
-# TheSy
+# Forked from https://github.com/eytans/TheSy
+
+## TheSy
 
 TheSy is short for theory synthesizer and is a theory exploration tool.
 You can either run TheSy with cargo or compile and run the executable.
